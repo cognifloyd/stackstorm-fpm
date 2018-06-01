@@ -2,7 +2,15 @@
 ---
 ref: fpm
 name: fpm
-description: fpm
-version: 0.1.0
+description: StackStorm Integration Pack for use with the fpm package for building system packages (rpm, deb, python, gem, etc.)
+keywords: 
+    - fpm
+    - rpm
+    - deb
+    - gem
+    - python
+    - egg
+    - ruby
+version: 0.1.1
 author: jfryman
 email: jfryman@FryBook-2.local
