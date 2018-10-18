@@ -5,7 +5,7 @@ require 'yaml'
 # Do not know how to model:
 # * same parameter typed in multiple times
 DEFAULT_DETAILS = {
-  'runner_type' => 'run-remote',
+  'runner_type' => 'remote-shell-cmd',
   'enabled' => true,
   'entry_point' => '',
 }

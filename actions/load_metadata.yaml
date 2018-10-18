@@ -1,7 +1,7 @@
 ---
 name: load_metadata
 description: Load package metadata from directory
-runner_type: run-remote
+runner_type: remote-shell-cmd
 enabled: true
 entry_point: ''
 parameters:

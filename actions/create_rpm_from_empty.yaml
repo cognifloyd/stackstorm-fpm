@@ -1,5 +1,5 @@
 ---
-runner_type: run-remote
+runner_type: remote-shell-cmd
 enabled: true
 entry_point: ''
 name: create_rpm_from_empty
