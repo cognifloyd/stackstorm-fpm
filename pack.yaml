@@ -11,5 +11,8 @@ keywords:
     - egg
     - ruby
 version: 0.1.2
+python_versions:
+  - "2"
+  - "3"
 author: jfryman
 email: support@stackstorm.com
