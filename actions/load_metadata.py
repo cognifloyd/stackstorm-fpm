@@ -4,4 +4,4 @@ import json
 
 DIR = sys.argv.pop + sys.argv.pop
 metadata = open(DIR)
-print json.load(metadata)
+print(json.load(metadata))
